@@ -14,6 +14,7 @@ This repository is a listing about my upcoming works in 2023. If u see anything 
 |[katsuFontsCDN](https://cdn.katsuragi.cyou)|This is a FontCDN Based on express.js (and I don't know why i'm doing this)|
 |[katsu-readme-generator](https://github.com/dethMastery/katsu-readme-gen/)|This is an awesome readme geenrator with canvas header (if you don't like png canvas, you can switch to svg but it seem buggy ☹️)|
 |[katsuShareX](https://github.com/dethMastery/katsuShareX)|A very simple ShareX server. (I don't know why i make it but i still make it)|
+|[ranString](https://github.com/KIZUNEParty/ranString)|just a string randomizer|
 
 <br />
 <hr />
