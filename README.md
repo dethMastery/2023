@@ -16,6 +16,7 @@ This repository is a listing about my upcoming works in 2023. If u see anything 
 |[katsuShareX](https://github.com/dethMastery/katsuShareX)|A very simple ShareX server. (I don't know why i make it but i still make it)|
 |[ranString](https://github.com/KIZUNEParty/ranString)|just a string randomizer|
 |[katsuBox](https://upload.katsuragi.cyou/)|just another file uploader :D|
+|[gobrowser-datk](https://github.com/katsuDocker/gobrowser-dark)|it's [gobrowser](https://github.com/xataz/gobrowser) but its dark theme :D|
 
 <br />
 <hr />
