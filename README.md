@@ -21,7 +21,7 @@ This repository is a listing about my upcoming works in 2023. If u see anything 
 
 <br />
 
-## January 2023
+## Februaly 2023
 |Repo Name.|Repo. Description|
 |---------------|------------------------------|
 |[katsuHome](https://github.com/katzEco/katsuHome-vite-vanilla)|just another portfolio template thats used Vite.js w/ tailwind.css & JSON API|
