@@ -33,6 +33,7 @@ This repository is a listing about my upcoming works in 2023. If u see anything 
 |Repo Name.|Repo. Description|
 |---------------|------------------------------|
 |[rLang](https://github.com/dethMastery/rLang)|Just another university works (w/ rLang)|
+|[katzu](https://github.com/katzEco/katzu)|A fucking all-rounding package for all of my cli package :D|
 <hr />
 
 #### Made w/ 🤍 by [Suphakit P.](https://suphakit.net/)
