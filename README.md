@@ -35,6 +35,7 @@ This repository is a listing about my upcoming works in 2023. If u see anything 
 |[rLang](https://github.com/dethMastery/rLang)|Just another university works (w/ rLang)|
 |[katzu](https://github.com/katzEco/katzu)|A fucking all-rounding package for all of my cli package :D|
 |[work.kizune](https://kizune.caffe.quest)|a Landing page for my organize ( [KIZUNEParty](https://github.com/KIZUNEParty) )|
+|[unwelcome.school](https://unwelcome.school)|a Landing page for [unwelcome.school](https://unwelcome.school)|
 <hr />
 
 #### Made w/ 🤍 by [Suphakit P.](https://suphakit.net/)
