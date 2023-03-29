@@ -36,6 +36,7 @@ This repository is a listing about my upcoming works in 2023. If u see anything 
 |[katzu](https://github.com/katzEco/katzu)|A fucking all-rounding package for all of my cli package :D|
 |[work.kizune](https://kizune.caffe.quest)|a Landing page for my organize ( [KIZUNEParty](https://github.com/KIZUNEParty) )|
 |[unwelcome.school](https://unwelcome.school)|a Landing page for [unwelcome.school](https://unwelcome.school)|
+|[ts-calculator](https://github.com/dethMastery/ts-calculator)|a workshop of `TypeScript` that I work while I'm interned|
 <hr />
 
 #### Made w/ 🤍 by [Suphakit P.](https://suphakit.net/)
