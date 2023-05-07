@@ -39,4 +39,9 @@ This repository is a listing about my upcoming works in 2023. If u see anything 
 |[ts-calculator](https://github.com/dethMastery/ts-calculator)|a workshop of `TypeScript` that I work while I'm interned|
 <hr />
 
+## April 2023
+|Repo Name.|Repo. Description|
+|---------------|------------------------------|
+|[xinLab](https://github.com/xinLaboratory/xinLab)|Just another Landing Page using `vite.js` + `React.TS` :x|
+
 #### Made w/ 🤍 by [Suphakit P.](https://suphakit.net/)
