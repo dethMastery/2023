@@ -6,6 +6,7 @@
 
 /* Components */
 @import url(./components/navBar.css);
+@import url(./components/container.css);
 @import url(./components/footer.css);
 
 * {
@@ -30,4 +31,10 @@ a:hover {
 button {
   border: none;
   transition: all .3s;
+}
+
+#container {
+  width: 80%;
+  min-height: 100vh;
+  margin: 0 auto;
 }
