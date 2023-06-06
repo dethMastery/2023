@@ -1,0 +1,33 @@
+@import url(https://fonts.googleapis.com/css?family=IBM+Plex+Sans+Thai:100,200,300,regular,500,600,700);
+
+/* Themes */
+@import url(./themes/default.css);
+@import url(./themes/dark.css);
+
+/* Components */
+@import url(./components/navBar.css);
+@import url(./components/footer.css);
+
+* {
+  font-family: 'IBM Plex Sans Thai', sans-serif;
+  transition: all .5s;
+}
+
+html, body {
+  padding: 0;
+  margin: 0;
+}
+
+a {
+  text-decoration: none;
+  transition: all .3s;
+}
+
+a:hover {
+  opacity: .6;
+}
+
+button {
+  border: none;
+  transition: all .3s;
+}
