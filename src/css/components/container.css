@@ -1,3 +1,39 @@
 #container {
   padding: 4rem 0;
 }
+
+#container #md h2 {
+  text-decoration: underline dashed;
+}
+
+#container #md table {
+  width: 90%;
+  margin: 0 auto;
+  border-collapse: collapse;
+}
+
+#container #md table th:nth-child(1) {
+  width: 30%;
+}
+
+#container #md table th:nth-child(2) {
+  width: 90%;
+}
+
+#container #md table td:nth-child(1) {
+  text-align: center;
+  padding: .5rem 1rem;
+}
+
+#container #md table td:nth-child(2) {
+  text-align: center;
+  padding: .5rem 1rem;
+}
+
+#container #md table a {
+  text-decoration: underline;
+}
+
+#container #md table a:hover {
+  text-decoration: none;
+}

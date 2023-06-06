@@ -11,11 +11,22 @@ body {
   background: whitesmoke;
 }
 
-#container form input {
-  color: whitesmoke;
-  background: #2e2f2f;
+#container #md table th {
+  border-bottom: 1px solid #2e2f2f;
 }
 
-#container form button[type='submit'] {
-  color: whitesmoke;
+#container #md table th:nth-child(1) {
+  border-right: 1px solid #2e2f2f;
+}
+
+#container #md table th:nth-child(2) {
+  border-left: 1px solid #2e2f2f;
+}
+
+#container #md table td:nth-child(1) {
+  border-right: 1px solid #2e2f2f;
+}
+
+#container #md table td:nth-child(2) {
+  border-left: 1px solid #2e2f2f;
 }
