@@ -1,0 +1,22 @@
+#footer {
+  width: 100%;
+
+  position: fixed;
+  bottom: 0;
+
+  text-align: center;
+
+  padding: 1rem 0;
+}
+
+#footer > p {
+  margin: .25rem;
+}
+
+#footer a {
+  text-decoration: underline !important;
+}
+
+#footer a:hover {
+  text-decoration: underline dashed !important;
+}
