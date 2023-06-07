@@ -11,3 +11,9 @@ fetch("../../README.md")
   .catch((error) => {
     console.error("Error:", error);
   });
+
+let mainDocs = document.querySelector('#md')
+
+mainDocs.querySelectorAll('a').forEach((item) => {
+  item.setAttribute('target', '_blank')
+})
