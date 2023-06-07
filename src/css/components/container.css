@@ -30,6 +30,14 @@
   padding: .5rem 1rem;
 }
 
+#container #md table td:nth-child(2) a {
+  text-decoration: underline dashed;
+}
+
+#container #md table td:nth-child(2) a:hover {
+  text-decoration: underline;
+}
+
 #container #md table a {
   text-decoration: underline;
 }
