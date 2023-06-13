@@ -178,6 +178,18 @@ This repository is a listing about my upcoming works in 2023. If u see anything 
       <td><a href="https://github.com/dethMastery/2023">2023</a></td>
       <td>Just an HTML Static page that render <a href="https://github.com/dethMastery/2023">2023</a> README.md</td>
     </tr>
+    <tr>
+      <td><a href="https://our.suphakit.net">ourTime</a></td>
+      <td>kind of static web that used to show a good time w/ my lover :)</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/dethMastery/billGen">billGen</a></td>
+      <td>a express js based app that used for generate an thai promptpay qr code</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/dethMastery/katz-vid">billGen</a></td>
+      <td>A video generator based on nodejs canvas & FFMPEG</td>
+    </tr>
   </tbody>
 </table>
 
