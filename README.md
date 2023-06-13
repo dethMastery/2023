@@ -187,7 +187,7 @@ This repository is a listing about my upcoming works in 2023. If u see anything 
       <td>a express js based app that used for generate an thai promptpay qr code</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/dethMastery/katz-vid">billGen</a></td>
+      <td><a href="https://github.com/dethMastery/katz-vid">katz-vid</a></td>
       <td>A video generator based on nodejs canvas & FFMPEG</td>
     </tr>
   </tbody>
