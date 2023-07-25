@@ -190,6 +190,10 @@ This repository is a listing about my upcoming works in 2023. If u see anything 
       <td><a href="https://github.com/dethMastery/katz-vid">katz-vid</a></td>
       <td>A video generator based on nodejs canvas & FFMPEG</td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/dethMastery/ourtime">ourTime</a></td>
+      <td>a little gallery that showing my time w/ my gf.</td>
+    </tr>
   </tbody>
 </table>
 
@@ -204,7 +208,7 @@ This repository is a listing about my upcoming works in 2023. If u see anything 
   <tbody>
     <tr>
       <td><a href="https://github.com/dethMastery/year-progressbar">year-progressbar</a></td>
-      <td>a progress of this year which is fully automate showing progress of this year :)</td>
+      <td>a progress of this year which is fully automate showing progress of this year based on svelte :)</td>
     </tr>
   </tbody>
 </table>
