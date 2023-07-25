@@ -1,6 +1,7 @@
 # @2023
 
-This repository is a listing about my upcoming works in 2023. If u see anything that seem great to u, don't fotget to leave me a star :)
+This repository is a listing about my upcoming works in 2023. If u see anything that seem great to u, don't fotget to
+leave me a star :)
 
 <br />
 <hr />
@@ -206,6 +207,10 @@ This repository is a listing about my upcoming works in 2023. If u see anything 
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td><a href="https://github.com/katzEco/katzu-welcome">katzu-welcome</a></td>
+      <td>a zsh welcome script based on node.js</td>
+    </tr>
     <tr>
       <td><a href="https://github.com/dethMastery/year-progressbar">year-progressbar</a></td>
       <td>a progress of this year which is fully automate showing progress of this year based on svelte :)</td>
