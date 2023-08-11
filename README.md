@@ -192,11 +192,13 @@ leave me a star :)
       <td>A video generator based on nodejs canvas & FFMPEG</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/dethMastery/ourtime">ourTime</a></td>
-      <td>a little gallery that showing my time w/ my gf.</td>
+      <td><a href="https://github.com/dethMastery/time-score">time-score</a></td>
+      <td>A timer with score counting made with `HTML`, `CSS` & `JS`</td>
     </tr>
   </tbody>
 </table>
+
+<br />
 
 ## July 2023
 <table>
@@ -214,6 +216,28 @@ leave me a star :)
     <tr>
       <td><a href="https://github.com/dethMastery/year-progressbar">year-progressbar</a></td>
       <td>a progress of this year which is fully automate showing progress of this year based on svelte :)</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/dethMastery/svelte-time-counter">svelte-time-counter</a></td>
+      <td>an implement version of <a href="https://github.com/dethMastery/countingDown">dethMastery/countingDown</a> and test deploying on deta.space</td>
+    </tr>
+  </tbody>
+</table>
+
+<br />
+
+## Aug 2023
+<table>
+  <thead>
+    <tr>
+      <th>Repo Name.</th>
+      <th>Repo. Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/dethMastery/mobile-clock">mobile-clock</a></td>
+      <td>a clock which made with sveltekit and deploying on deta.space</td>
     </tr>
   </tbody>
 </table>
